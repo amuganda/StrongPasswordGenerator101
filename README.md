@@ -7,6 +7,6 @@ Features
 1. Prompts for required length of password
 2. Prompts for number of passwords that should be generated
 
-Requirements
+Incomplete Requirement
 
 1. Strong passwords should be a minimum of 8 and maximumof 16 characters

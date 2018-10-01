@@ -1,6 +1,8 @@
 #Strong Password Generator
 //
-Will be the basis for a basic strong password generator - The package for generating strong passwords of a length defined by the user and is created as a small introductory project. 
+Will be the basis for a basic strong password generator - The package for generating strong passwords of a length defined by the user and is created as a small introductory project - by no mans, not a real life solution, however, I'm no at the point where I'd be implementing a solution to generate passwords for an authenticator. 
+
+Other libraries exist, such as PyOTP for that.
 
 Features
 

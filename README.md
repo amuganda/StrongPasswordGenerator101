@@ -15,6 +15,10 @@ Incomplete Requirement
 
 Update
 
-Solution
+New Solution
 
+Uses Python Secrets Module.
+
+1. Standard length of passwords generated is 16
+2. Prompts for number of passwords to be generated
 

@@ -10,7 +10,7 @@ import string
 pNumber = input('Number Of Passwords Required: ')
 pNumber = int(pNumber)
 
-# Output: N is length of pass
+# N is length of pass
 N = 16
 for outputnum in range(pNumber):
     # Output: pNumber of passwords as a 16 character string

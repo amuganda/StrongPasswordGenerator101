@@ -20,3 +20,6 @@ Uses Python Secrets Module. Is it considered secure? Use at your own risk !!!
 1. Standard length of passwords generated is set to 16
 2. Prompts for number of passwords to be generated
 
+***************************
+
+All thanks to the stackoverflow 'Gods'
